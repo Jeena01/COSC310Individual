@@ -14,10 +14,15 @@ We are developing a conversational agent named Serenity that talks to the user a
 ## Scripts/Classes used
 
 optimizer.py:
+
 InputProcess: this class contains helper methods that are useful in processing input
+
 bot.py
+
 This script contains the methods required to run the bot
+
 startbot.py
+
 This script needs to be run to execute the bot
 
 ## New Features
